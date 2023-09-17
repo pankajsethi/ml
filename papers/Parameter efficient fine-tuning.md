@@ -2,6 +2,7 @@
 
 * Paper of papers. defines taxonomy 
 ## Types of PEFT
+!(httpsarxiv.orgpdf2303.15647.pdf#page15.png)
 ### Additive
 adds extra layers or parameters and only trains them. 
 * Adapters add a fully connected layer after transformer layers and trains those
