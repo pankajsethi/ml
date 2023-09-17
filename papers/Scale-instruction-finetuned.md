@@ -9,4 +9,4 @@ key observation:
 * 1.8k fine tune tasks giving 10-15% improvement is significant 
 * Does not achieve SOTA (State of the art) on specialized models
 * instruction finetuning improves unseen tasks when the unseen tasks are in the same prompting paradigm as the finetuning tasks 
-"""PaLM 540B, instruction finetuning requires only 0.2% of the pre-training compute but improves the normalized average across evaluation benchmarks by 9.4%.
+* """PaLM 540B, instruction finetuning requires only 0.2% of the pre-training compute but improves the normalized average across evaluation benchmarks by 9.4%.
